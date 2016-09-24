@@ -1,17 +1,20 @@
 #-------------------------------
 # General Site Settings
 
-title: Artists Theme
-description: Thinker // Designer // YouTuber
-email: devtipsfordesigners@gmail.com
+title: Andreas Altendorfer
+description: Software Craftsman
+email: andreas@altendorfer.at
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
 menu:
 - {name: About Me, url: '#about-me'}
 - {name: Work, url: '#work'}
-- {name: Clients, url: '#clients'}
+- {name: Developer, url: '#developer'}
 - {name: Contact, url: '#contact'}
+
+layout:
+  logo: 'hero-bg.png'
 
 #-------------------------------
 # SEO Section
@@ -19,9 +22,9 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Provide a description for your website to make it visible to search engines.'
-  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
-  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  description: "A Developer's Blog"
+  rel-author: 'https://plus.google.com/u/0/+AndreasAltendorfer/'
+  rel-publisher: 'https://plus.google.com/u/0/+AltendorferAT/'
 
 #-------------------------------
 # Google Analytics Section
@@ -39,10 +42,7 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Travis specializes in making things** for human people.
-  Most of the things he makes are [digital interfaces](http://travisneilson.com){:target="_blank"},
-  but he also puts effort into crafting [next-level beats](http://soundcloud.com/travis-neilson){:target="_blank"}
-  and [YouTube videos](http://youtube.com/user/devtipsfordesigners){:target="_blank"} about making codes happen.
+  **Andi is a software craftsman** with three decades of experience.
 
 
 skills:
@@ -50,10 +50,10 @@ skills:
 - {name: Organization, value: '7'}
 - {name: Learning, value: '10'}
 - {name: Teaching, value: '6'}
-- {name: Planning, value: '7'}
-- {name: Visual Design, value: '5'}
-- {name: UX Design, value: '8'}
-- {name: Programming, value: '6'}
+- {name: Architecture, value: '9'}
+- {name: TDD & Clean Code, value: '10'}
+- {name: Object Oriented Programming, value: '9'}
+- {name: Functional Programming, value: '5'}
 
 #-------------------------------
 # Work Section
