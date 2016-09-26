@@ -59,53 +59,37 @@ skills:
 # Work Section
 
 projects:
-- {name: TYPO International Design Talks, folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: City-IN website concept, folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: Crispy Icons, folder: 'proj-3', file: 'work/proj-3.html'}
-- {name: Flat Mobile UI/UX Concept, folder: 'proj-4', file: 'work/proj-4.html'}
-- {name: Fresh It Up, folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: Timeline Page, folder: 'proj-6', file: 'work/proj-6.html'}
-- {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
-- {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
-
-
+- {name: NET-AT-WORK, folder: 'proj-1', file: 'work/proj-2.html'}
+- {name: ÖBB Telekom, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Ärztekammer NÖ, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: Distance Learning Environment, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Runtastic, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: CGM, folder: 'proj-6', file: 'work/proj-6.html'}
 
 
 #-------------------------------
 # Clients Section
 
 clients:
-- {avatar: 'face-aaroni.jpg',
-  name: 'Scott Summers',
-  title: 'Director of Design, OnToText Ind.',
-  quote: '<p><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
+- {avatar: 'turbo_pascal.jpg',
+  name: 'Turbo Pascal',
+  title: 'Starting first commercial programming in 1986',
+  quote: '<p><strong>In 1986 Andreas started his first commercial programming</strong>. A two floppy disc based application for a second-hand-shop. Written in Pascal. DOS, Pascal, B-Tree Datastore.</p>',
   logo: 'logo1.png'}
-- {avatar: 'face-atariboy.jpg',
-  name: 'Hank McCoy',
-  title: 'Eater of Salad, Antartica Int.',
-  quote: '<p><strong>Working with Travis was the highlight of my career.</strong> Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying "uh huh, and then what?" 30 times in a row to my girlfriend without her noticing.</p>',
+- {avatar: 'ruby_and_rails.jpg',
+  name: 'Ruby, RAIL',
+  title: '8 years with Ruby and RAILS',
+  quote: '<p><strong>From 2007 to 2014, aCampus Distance Learning System</strong>.</p>',
   logo: 'logo2.png'}
-- {avatar: 'face-jackiesaik.jpg',
-  name: 'Stacy Lang',
-  title: 'Social Media Girl, Quebec Int.',
-  quote: '<p><strong>Yea, I guess hes good at computers or something,</strong> but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?</p>',
-  logo: 'logo3.png'}
-- {avatar: 'face-teleject.jpg',
-  name: 'Cleatus Cassidy',
-  title: 'VP of Helmut, Lorem Sorem LLC.',
-  quote: '<p><strong>Back in old country</strong> only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You dont see girls asking me about homework.</p>',
-  logo: 'logo4.png'}
-
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter', link: 'http://twitter.com/devtipsshow'}
-- {icon: 'dribbble', link: 'https://dribbble.com/travisneilson'}
-- {icon: 'behance', link: 'https://www.behance.net/travisneilson'}
-- {icon: 'youtube', link: 'https://www.youtube.com/DevTipsForDesigners'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/travisneilson/'}
+- {icon: 'twitter', link: 'http://twitter.com/Nickendell'}
+- {icon: 'google', link: 'https://plus.google.com/+AndreasAltendorfer'}
+- {icon: 'youtube', link: 'https://www.youtube.com/channel/UChH6ka-7pLeiqOIFfyqBE0w'}
+- {icon: 'linkedin', link: 'https://at.linkedin.com/in/andreasaltendorfer'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
